@@ -411,7 +411,7 @@ nav {
 	align-items: center;
 	height: 400px;
 	padding: 50px 0px;
-	background-image: url(https://www.notion.so/cdn-cgi/image/format=auto,width=640,quality=100/front-static/pages/product/sitting-character.png);
+	background-image: url(src/images/sitting-character.png);
 	background-position: bottom 0px left 50px;
 	background-repeat: no-repeat;
 	background-size: 250px;
@@ -822,7 +822,7 @@ footer li:hover {
 	.sectionEnd-container {
 		height: 400px;
 		padding: 50px 0px;
-		background-image: url(https://www.notion.so/cdn-cgi/image/format=auto,width=640,quality=100/front-static/pages/product/sitting-character.png);
+		background-image: url(src/images/sitting-character.png);
 		background-position: bottom 0px left 10px;
 		background-repeat: no-repeat;
 		background-size: 200px;
